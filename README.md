@@ -1,3 +1,3 @@
-# my-website
-This is my first website
+# my-portfolio
+This is my first portfolio
 hello
